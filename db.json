@@ -1,33 +1,33 @@
 {
   "posts": [
     {
-      "summary": 'тех поддеркжа',
-      "emailFrom": '1@com'
+      "summary": "тех поддеркжа",
+      "emailFrom": "1@com",
       "date": "11.11.2017"
     },
     {
-      "summary": 'важно',
-      "emailFrom": '2@com'
+      "summary": "важно",
+      "emailFrom": "2@com",
       "date": "11.12.2017"
     },
     {
-      "summary": 'важно',
-      "emailFrom": '3@com'
+      "summary": "важно",
+      "emailFrom": "3@com",
       "date": "11.13.2017"
     },
     {
-      "summary": 'важно',
-      "emailFrom": '4@com'
+      "summary": "важно",
+      "emailFrom": "4@com",
       "date": "11.11.2017"
     },
     {
-      "summary": 'важно',
-      "emailFrom": '4@com'
+      "summary": "важно",
+      "emailFrom": "4@com",
       "date": "11.14.2017"
     },
     {
-      "summary": 'важно',
-      "emailFrom": '5@com'
+      "summary": "важно",
+      "emailFrom": "5@com",
       "date": "11.15.2017"
     }
   ],
