@@ -3,37 +3,37 @@
     {
       "id": 1,
       "summary": "тех поддеркжа",
-      "emailFrom": "1@com",
+      "fromEmail": "1@com",
       "date": "11.11.2017"
     },
     {
       "id": 2,
       "summary": "важно",
-      "emailFrom": "2@com",
+      "fromEmail": "2@com",
       "date": "11.12.2017"
     },
     {
       "id": 3,
       "summary": "важно",
-      "emailFrom": "3@com",
+      "fromEmail": "3@com",
       "date": "11.13.2017"
     },
     {
       "id": 4,
       "summary": "важно",
-      "emailFrom": "4@com",
+      "fromEmail": "4@com",
       "date": "11.11.2017"
     },
     {
       "id": 5,
       "summary": "важно",
-      "emailFrom": "4@com",
+      "fromEmail": "4@com",
       "date": "11.14.2017"
     },
     {
       "id": 6,
       "summary": "важно",
-      "emailFrom": "5@com",
+      "fromEmail": "5@com",
       "date": "11.15.2017"
     }
   ],
